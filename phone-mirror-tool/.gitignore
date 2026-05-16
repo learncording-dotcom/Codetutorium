@@ -1,0 +1,46 @@
+# Dependencies
+node_modules/
+pip/
+venv/
+__pycache__/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Build outputs
+build/
+dist/
+*.egg-info/
+.gradle/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Session files
+sessions/
+recordings/
+
+# Temporary files
+*.tmp
+.cache/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Certificates
+*.pem
+*.key
+*.crt
