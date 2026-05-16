@@ -7,7 +7,7 @@ npm run dev
 
 # Terminal 2 - Start Frontend
 cd phone-mirror-tool/frontend
-pip install -r requirements.txt
+npm install
 npm start
 
 # Terminal 3 - Connect Device (Python)
